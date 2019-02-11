@@ -6,7 +6,7 @@ Cryptonight hashing functions for node.js.
 
 Algorithms
 ----------
-* cryptonight (v0, v1, v2, half, xtl, msr, rto, xao, gpu, wow)
+* cryptonight (v0, v1, v2, X-CASH, xtl, msr, rto, xao, gpu, wow)
 * cryptonight-light (v0, v1)
 * cryptonight-heavy (v0, xhv, tube)
 * cryptonight-pico (trtl)
@@ -17,7 +17,7 @@ Usage
 Install
 
 ```bash
-npm install https://github.com/MoneroOcean/node-cryptonight-hashing.git
+npm install https://github.com/X-CASH-official/node-cryptonight-hashing.git
 ```
 
 So far this native Node.js addon can do the following hashing algos
