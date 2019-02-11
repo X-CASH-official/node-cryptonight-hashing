@@ -1,6 +1,6 @@
 {
     "name": "cryptonight-hashing",
-    "version": "7.0.0",
+    "version": "1.0.0",
     "main": "cryptonight-hashing",
     "author": {
         "name": "Multiple",
@@ -9,7 +9,7 @@
     "license": "GPL-3.0-or-later",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MoneroOcean/node-cryptonight-hashing.git"
+        "url": "https://github.com/X-CASH-official/node-cryptonight-hashing.git"
     },
     "dependencies": {
         "bindings": "*",
